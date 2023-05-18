@@ -1,2 +1,2 @@
 # password_generator
-Script to create random pasword of chosen lenght
+Script to create random pasword of chosen length
